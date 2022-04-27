@@ -29,7 +29,7 @@ git clone https://github.com/Xldivin/react-redux
 - Navigate into the folder name specified
 
 ```bash
-cd phantom-fe-elite
+cd REACT-REDUX
 ```
 
 ## Installation
