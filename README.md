@@ -23,7 +23,7 @@ The dependencies of this project are managed with yarn or npm (see installation 
 - Clone this project to any folder on your local machine
 
 ```bash
-git clone https://github.com/atlp-rwanda/phantom-fe-elite.git
+git clone https://github.com/Xldivin/react-redux
 ```
 
 - Navigate into the folder name specified
